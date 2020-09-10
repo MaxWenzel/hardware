@@ -1,5 +1,6 @@
-# hardware
-Hardware for developers
+# Hardware
+
+The right hardware for developers
 
 ## Monitor
 
