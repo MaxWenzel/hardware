@@ -15,6 +15,13 @@ The right hardware for developers
 - [Keyboard 5Q](https://www.daskeyboard.com/)
 - [Keyboard Prime 13](https://www.daskeyboard.com/)
 - [Keychron K2 Mechanical](https://www.keychron.com/)
+- [Keychron K2 Mechanical](https://www.keychron.com/)
+- (Microsoft Natural Ergonomic Keyboard)[https://www.microsoft.com/accessories/en-us/business/natural-ergonomic-keyboard-4000-for-business/5qh-00001]
+- [Logitech MX Keys](https://www.logitech.com/)
+- [Durgod Taurus](https://fusion.durgod.com/): with blue switches
+- [Ultimate Hacking Keyboard](https://ultimatehackingkeyboard.com/): with MX Clear
+- [WASD Keyboards](https://www.wasdkeyboards.com/)
+
 
 ### Layout
 
