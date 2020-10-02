@@ -7,6 +7,7 @@ The right hardware for developers
 - Dell U3818DW
 - LG 34UC99-W 86,36 cm (34 Zoll) 
 - Asus PA34VC 34 Zoll 
+- Philips 346P1CRH
 
 ## Keyboard
 
