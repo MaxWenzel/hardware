@@ -22,7 +22,7 @@ The right hardware for developers
 - [Durgod Taurus](https://fusion.durgod.com/): with blue switches
 - [Ultimate Hacking Keyboard](https://ultimatehackingkeyboard.com/): with MX Clear
 - [WASD Keyboards](https://www.wasdkeyboards.com/)
-
+- AUKEY 
 
 ### Layout
 
