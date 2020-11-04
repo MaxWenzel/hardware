@@ -41,3 +41,7 @@ The right hardware for developers
 
 - [B&O Beoplay H9](https://www.bang-olufsen.com)
 - [Sony 1000 XM2](https://www.sony.com/)
+
+## Desk
+
+- [Ergotopia-Desktopia](https://www.ergotopia.de/ergonomie-shop/hoehenverstellbarer-schreibtisch/desktopia-pro-elektrisch-memoryschalter)
