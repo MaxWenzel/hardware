@@ -45,3 +45,7 @@ The right hardware for developers
 ## Desk
 
 - [Ergotopia-Desktopia](https://www.ergotopia.de/ergonomie-shop/hoehenverstellbarer-schreibtisch/desktopia-pro-elektrisch-memoryschalter)
+
+## Raspberry PI
+
+Turing PI
