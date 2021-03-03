@@ -48,4 +48,5 @@ The right hardware for developers
 
 ## Raspberry PI
 
-Turing PI
+- [TuringPi](https://turingpi.com/)
+- [ClusterHat](https://clusterhat.com/)
