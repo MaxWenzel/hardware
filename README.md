@@ -50,3 +50,7 @@ The right hardware for developers
 
 - [TuringPi](https://turingpi.com/)
 - [ClusterHat](https://clusterhat.com/)
+
+## Chair
+
+- [Herman Miller X Logitech G Embody Gaming Chair](https://degaming.hermanmiller.com/)
