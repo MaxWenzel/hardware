@@ -11,6 +11,7 @@ The right hardware for developers
 
 ## Keyboard
 
+- [Alloy Origins Core](https://www.hyperxgaming.com/germany/en/keyboards/alloy-origins-core-tenkeyless-mechanical-gaming-keyboard)
 - [Keyboard 4 Professional](https://www.daskeyboard.com/)
 - [Keyboard 4 Ultimate](https://www.daskeyboard.com/)
 - [Keyboard 5Q](https://www.daskeyboard.com/)
@@ -23,6 +24,7 @@ The right hardware for developers
 - [Ultimate Hacking Keyboard](https://ultimatehackingkeyboard.com/): with MX Clear
 - [WASD Keyboards](https://www.wasdkeyboards.com/)
 - AUKEY 
+- Logitech G Pro TKL
 
 ### Layout
 
