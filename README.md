@@ -8,6 +8,7 @@ The right hardware for developers
 - LG 34UC99-W 86,36 cm (34 Zoll) 
 - Asus PA34VC 34 Zoll 
 - Philips 346P1CRH
+- Eizo EV3895 (USB-C, Hardware-split screen, built-in KVM)
 
 ## Keyboard
 
