@@ -58,3 +58,7 @@ The right hardware for developers
 
 - [Herman Miller X Logitech G Embody Gaming Chair](https://degaming.hermanmiller.com/)
 - [DXRacer](https://www.dxracer-germany.de/)
+
+## Webcam
+
+- Razor Kiyo
